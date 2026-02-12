@@ -1,4 +1,4 @@
 # Physics-theories-generator-
 
 ## 👋Hello!
-here is a code where you can create a calculator on Python!
+here am example (not original codes) where I used to create the app on Pollinations.ai "physics theories generator"
